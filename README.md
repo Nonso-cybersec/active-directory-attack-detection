@@ -113,7 +113,7 @@ enum4linux -a 10.0.2.6 2>/dev/null
 - Share enumeration: failed
 - RID cycling: `STATUS_ACCESS_DENIED`
 
-Your DC blocked direct SMB user enumeration. Partial hardening — domain metadata leaked but user accounts didn't.
+ DC blocked direct SMB user enumeration. Partial hardening — domain metadata leaked but user accounts didn't.
 
 ### Attempt 2 — Anonymous LDAP query
 
