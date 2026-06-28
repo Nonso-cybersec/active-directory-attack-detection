@@ -1,0 +1,11 @@
+Project 4 — Active Directory Attack Detection
+Detection Summary from alerts.log
+
+Event ID 4662 (Directory Object Access): 3
+Rule 60204 (Multiple Logon Failures): 11
+Rule 60106 (Logon Success): 374
+Total attacker events from 10.0.2.5: 382
+
+Phase 1 Enumeration: 0 alerts
+Phase 2 Password Spraying: 11 alerts (Rule 60204)
+Phase 3 Privilege Discovery: 0 alerts
